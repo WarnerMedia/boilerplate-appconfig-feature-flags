@@ -65,3 +65,5 @@ https://docs.aws.amazon.com/appconfig/latest/userguide/appconfig-retrieving-the-
 # License
 
 This repository is released under [the MIT license](https://en.wikipedia.org/wiki/MIT_License).  View the [local license file](./LICENSE).
+
+Small sample change to test that the CLA hook is in place and working.
