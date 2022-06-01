@@ -1,0 +1,7 @@
+LICENSE
+README.md
+v1/README.md
+v1/env/cfn/appconfig/deployment/*
+v1/iac/cfn/appconfig/deployment.yaml
+v1/env/cfn/appconfig/configuration-version/hosted/*
+v1/iac/cfn/appconfig/hosted-configuration-version.yaml
